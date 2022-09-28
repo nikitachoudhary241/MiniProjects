@@ -1,2 +1,2 @@
 # MiniProjects
-## Projects by busing HTML,CSS and Javascript
+#### Projects by by using HTML,CSS and Javascript
